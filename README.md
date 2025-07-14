@@ -1,1 +1,1 @@
-# berlatih-git
+git add.
